@@ -1,5 +1,7 @@
 This is a new file.
 
+<<<<<<< HEAD
 This is Taz's edit. 
-
+=======
 This is what Lisa did.
+>>>>>>> Lisa
